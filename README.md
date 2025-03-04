@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sagar Mamwadi! 👋
 
-<!--
-**Sagar-mamwadi/Sagar-mamwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 *BTech 3rd-year student* with a passion for *Software Development, Data Analytics, and AI/ML*.
+- 📌 Currently *learning MERN* and building *full-stack projects*.
+- 🎯 Actively working on *deployable projects* to strengthen my *GitHub portfolio*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack & Skills
+
+- *Languages:* JavaScript, Python, C, C++
+- *Web Development:* React.js, Node.js, Express.js, Flask, Bootstrap
+- *Databases:* MySQL, MongoDB
+- *AI/ML:* Python (ML Libraries)
+- *Data Structures & Algorithms:* C++
+- *Other:* Git, GitHub, Problem-Solving, DBMS
+
+---
+
+## 📫 Connect With Me
+- 💼 https://www.linkedin.com/in/sagar-mamwadi/
+- 📧 Email: sagarmamwadi6@gmail.com
+
+---
+
